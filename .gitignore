@@ -1,0 +1,2 @@
+.venv/\n__pycache__/\n*.py[cod]\ndata/*\n!data/.gitkeep\n.streamlit/secrets.toml\n
+data/*.csv
